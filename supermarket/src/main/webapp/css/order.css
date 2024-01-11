@@ -1,0 +1,15 @@
+.header-custom {
+    background-color: #2e8b57;
+}
+.btn-custom {
+    background-color: #276749;
+    color: white;
+    transition: background-color 0.3s;
+}
+.btn-custom:hover {
+    background-color: #1F4421;
+}
+.table-custom {
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

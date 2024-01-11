@@ -1,0 +1,30 @@
+.login-container {
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1),
+    0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    max-width: 400px;
+    width: 100%;
+    margin: auto;
+    padding-top: 50px;
+}
+.login-title {
+    color: #2e8b57;
+}
+.btn-login {
+    background-color: #2e8b57;
+    color: white;
+}
+.btn-login:hover {
+    background-color: #276749;
+}
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+    padding: 2rem 0;
+}
+
+.login-container {
+    width: 100%;
+    max-width: 400px;
+}

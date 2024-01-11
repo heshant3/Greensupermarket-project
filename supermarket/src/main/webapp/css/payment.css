@@ -1,0 +1,22 @@
+.header-custom {
+    background-color: #2e8b57;
+}
+.btn-custom {
+    background-color: #276749;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn-custom:hover {
+    background-color: #1F4421;
+} .bg-dark-green {
+      background-color: #276749;
+  }
+.footer{
+    margin-top: 100px;
+}
+.box{
+    margin-top: 100px;
+}

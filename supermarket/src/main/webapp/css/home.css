@@ -1,0 +1,53 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+.navbar {
+    background-color: #28a745;
+    color: white;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-brand:hover, .navbar-nav .nav-link:hover {
+    color: #ddd !important;
+}
+.btn-custom {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: white;
+}
+
+.btn-custom:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.footer-bg {
+    background-color: #589c5b;
+}
+.product-card {
+    border: 1px solid #d1d5db;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+.product-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.btn-buy {
+    background-color: #4c9a5b;
+    color: white;
+}
+.btn-buy:hover {
+    background-color: #3e804b;
+}
+.bg-dark-green {
+    background-color: #276749;
+}   .header-bg {
+        background-color: #2e8b57;
+    }

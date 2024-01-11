@@ -1,0 +1,36 @@
+.header-bg {
+    background-color: #2e8b57;
+}
+.btn-custom {
+    background-color: #276749;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn-custom:hover {
+    background-color: #22543d;
+}
+.card-custom {
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+    background: #fff;
+}
+.delivery-details {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+}
+.product-image {
+    max-width: 100%;
+    height: auto;
+}
+.bg-dark-green {
+    background-color: #276749;
+}
